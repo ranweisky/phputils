@@ -1,0 +1,6 @@
+{
+	"name":"xiaoju/phputils",
+	"autoload": {
+		"psr-4": {"Xiaoju\\Beatles\\Utils": "src/"}
+	}
+}
